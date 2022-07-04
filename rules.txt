@@ -1,0 +1,5 @@
+All colaborators need to clone this repository in their local machine as a initial start point.
+Use the Github standard branch system without gitlow extension as branch name included ej. test_develop, art_feature, final_release, ect.
+If you suggest project modifications out of the project scope use feature branch or a new variation please fork the branch.
+Use identation with 4 spaces as suggested for phyton scripts declare the global variables at the beginning of the script.
+Use apropiates comments in your code.
